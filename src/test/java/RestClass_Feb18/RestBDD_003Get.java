@@ -3,7 +3,7 @@ package RestClass_Feb18;
 import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 
-public class Rest_003Get
+public class RestBDD_003Get
 {
     //Non BDD style Get request
     //HTTP Method   ID    Auth   Payload   Few Keys
