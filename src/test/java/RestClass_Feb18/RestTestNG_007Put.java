@@ -1,6 +1,6 @@
 package RestClass_Feb18;
 
-public class RestBDD_005Post
+public class RestTestNG_007Put
 {
 
 }
