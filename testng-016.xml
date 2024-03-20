@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Nakul.Khairnar/ATB5XLearnAPIRestAutomation">
+        <classes>
+            <class name="RestClass_Feb24.RestAssured_016"></class>
+        </classes>
+    </test>
+</suite>
